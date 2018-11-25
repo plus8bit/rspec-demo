@@ -22,8 +22,4 @@ class Hero
   end
   
 end
-# hero = Hero.new('andy')
-# puts hero.name
-# puts hero.power_up
-# puts hero.power_down
-# puts hero.her_info
+
